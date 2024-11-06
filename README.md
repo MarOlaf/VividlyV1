@@ -1,1 +1,2 @@
-TEST READ ME. HELLO WORLD! IM ALIVE
+GitHub Page under Construction, please visit: 
+https://karimballan.wixsite.com/narrative-game-des-1
